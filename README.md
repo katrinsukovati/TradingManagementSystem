@@ -1,7 +1,6 @@
 # Trading Management System
 Welcome to Group 26 Trade System!
 Run the main method in TradeSystemMain to see the text UI version of the program.
-Run the main method in GUI.StartGUI to see the GUI version of Group26 trade system!
 
 
 To edit the thresholds for the server in the text editor, open up the limit.csv file.
