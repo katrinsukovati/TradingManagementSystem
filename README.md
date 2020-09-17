@@ -9,3 +9,5 @@ To edit the thresholds for the server in the text editor, open up the limit.csv 
 before the system picks the account out for admins to freeze.
 - The third number is tradePrerequisite, from the AdminManager. Not in use at the moment but was supposed to be the
 the number of "borrows" a person is allowed before they are unable to borrow and must lend.
+
+A link to see how the program works: https://streamable.com/f716hm
